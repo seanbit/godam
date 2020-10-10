@@ -1,4 +1,4 @@
-module github.com/seanbit/goweb/dam
+module github.com/seanbit/godam
 
 go 1.14
 
