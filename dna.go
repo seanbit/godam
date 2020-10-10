@@ -1,4 +1,4 @@
-package database
+package dam
 
 /**
  * 从用户名中获取基因数字
